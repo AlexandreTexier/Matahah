@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hamzaaboveSukun-ar" format="2">
+	<advance width="223"/>
+	<anchor x="112" y="500" name="_top"/>
+	<outline>
+		<contour>
+			<point x="30" y="570" type="line"/>
+			<point x="30" y="526" type="line"/>
+			<point x="100" y="526" type="line"/>
+			<point x="100" y="570" type="line"/>
+		</contour>
+		<contour>
+			<point x="88" y="558" type="line"/>
+			<point x="88" y="538" type="line"/>
+			<point x="42" y="538" type="line"/>
+			<point x="42" y="558" type="line"/>
+		</contour>
+		<contour>
+			<point x="123" y="526" type="line"/>
+			<point x="193" y="526" type="line"/>
+			<point x="193" y="538" type="line"/>
+			<point x="150" y="538" type="line"/>
+			<point x="150" y="558" type="line"/>
+			<point x="193" y="558" type="line"/>
+			<point x="193" y="570" type="line"/>
+			<point x="138" y="570" type="line"/>
+			<point x="138" y="538" type="line"/>
+			<point x="123" y="538" type="line"/>
+		</contour>
+	</outline>
+</glyph>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="shaddaKasra-ar" format="2">
+	<advance width="224"/>
+	<anchor x="112" y="500" name="_top"/>
+	<outline>
+		<component base="shadda-ar"/>
+		<component base="fatha-ar" xOffset="-57" yOffset="-59"/>
+	</outline>
+</glyph>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="shaddaAlefabove-ar" format="2">
+	<advance width="224"/>
+	<anchor x="112" y="500" name="_top"/>
+	<outline>
+		<contour>
+			<point x="138" y="570" type="line"/>
+			<point x="126" y="570" type="line"/>
+			<point x="126" y="538" type="line"/>
+			<point x="82" y="538" type="line"/>
+			<point x="82" y="570" type="line"/>
+			<point x="70" y="570" type="line"/>
+			<point x="70" y="526" type="line"/>
+			<point x="194" y="526" type="line"/>
+			<point x="194" y="570" type="line"/>
+			<point x="182" y="570" type="line"/>
+			<point x="182" y="538" type="line"/>
+			<point x="138" y="538" type="line"/>
+		</contour>
+		<contour>
+			<point x="30" y="526" type="line"/>
+			<point x="30" y="570" type="line"/>
+			<point x="42" y="570" type="line"/>
+			<point x="42" y="526" type="line"/>
+		</contour>
+	</outline>
+</glyph>

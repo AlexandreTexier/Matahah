@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="six-ar" format="2">
+	<advance width="400"/>
+	<unicode hex="0666"/>
+	<outline>
+		<contour>
+			<point x="50" y="600" type="line"/>
+			<point x="250" y="600" type="line"/>
+			<point x="250" y="100" type="line"/>
+			<point x="350" y="100" type="line"/>
+			<point x="350" y="700" type="line"/>
+			<point x="50" y="700" type="line"/>
+		</contour>
+	</outline>
+</glyph>

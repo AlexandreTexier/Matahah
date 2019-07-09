@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="allah-ar" format="2">
+	<advance width="1000"/>
+	<unicode hex="FDF2"/>
+	<outline>
+		<component base="alef-ar" xOffset="800"/>
+		<component base="lam-ar.init" xOffset="600"/>
+		<component base="lam-ar.medi" xOffset="400"/>
+		<component base="heh-ar.fina"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>heh-ar.fina</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>alef-ar</string>
+		</dict>
+	</lib>
+</glyph>

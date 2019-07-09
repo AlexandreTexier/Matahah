@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="kaf-ar.medi" format="2">
+	<advance width="400"/>
+	<unicode hex="FEDC"/>
+	<anchor x="201" y="1100" name="top"/>
+	<outline>
+		<contour>
+			<point x="-50" y="100" type="line"/>
+			<point x="450" y="100" type="line"/>
+			<point x="450" y="200" type="line"/>
+			<point x="350" y="200" type="line"/>
+			<point x="350" y="600" type="line"/>
+			<point x="150" y="600" type="line"/>
+			<point x="150" y="1000" type="line"/>
+			<point x="350" y="1000" type="line"/>
+			<point x="350" y="1100" type="line"/>
+			<point x="50" y="1100" type="line"/>
+			<point x="50" y="500" type="line"/>
+			<point x="250" y="500" type="line"/>
+			<point x="250" y="200" type="line"/>
+			<point x="-50" y="200" type="line"/>
+		</contour>
+	</outline>
+</glyph>

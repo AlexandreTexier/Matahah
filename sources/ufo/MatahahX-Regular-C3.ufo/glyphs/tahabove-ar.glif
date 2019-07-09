@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tahabove-ar" format="2">
+	<advance width="224"/>
+	<unicode hex="0615"/>
+	<guideline x="112" y="500" angle="90"/>
+	<anchor x="112" y="500" name="_top"/>
+	<outline>
+		<contour>
+			<point x="30" y="516" type="line"/>
+			<point x="194" y="516" type="line"/>
+			<point x="194" y="560" type="line"/>
+			<point x="42" y="560" type="line"/>
+			<point x="42" y="590" type="line"/>
+			<point x="30" y="590" type="line"/>
+		</contour>
+		<contour>
+			<point x="42" y="528" type="line"/>
+			<point x="42" y="548" type="line"/>
+			<point x="182" y="548" type="line"/>
+			<point x="182" y="528" type="line"/>
+		</contour>
+	</outline>
+</glyph>

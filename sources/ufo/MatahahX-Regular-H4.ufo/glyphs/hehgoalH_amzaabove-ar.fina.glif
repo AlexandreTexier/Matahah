@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hehgoalHamzaabove-ar.fina" format="2">
+	<advance width="400"/>
+	<outline>
+		<component base="hehgoal-ar.fina"/>
+		<component base="hamzaabove-ar" xOffset="88" yOffset="300"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>v</string>
+		</dict>
+	</lib>
+</glyph>

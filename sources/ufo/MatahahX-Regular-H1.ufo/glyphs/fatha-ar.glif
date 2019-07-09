@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="fatha-ar" format="2">
+	<advance width="340"/>
+	<unicode hex="064E"/>
+	<anchor x="170" y="500" name="_top"/>
+	<outline>
+		<contour>
+			<point x="88" y="539" type="line"/>
+			<point x="91" y="524" type="line"/>
+			<point x="252" y="552" type="line"/>
+			<point x="249" y="567" type="line"/>
+		</contour>
+	</outline>
+</glyph>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="shaddaDamma-ar" format="2">
+	<advance width="224"/>
+	<anchor x="112" y="500" name="_top"/>
+	<outline>
+		<contour>
+			<point x="155" y="570" type="line"/>
+			<point x="155" y="538" type="line"/>
+			<point x="124" y="538" type="line"/>
+			<point x="124" y="526" type="line"/>
+			<point x="194" y="526" type="line"/>
+			<point x="194" y="570" type="line"/>
+		</contour>
+		<contour>
+			<point x="167" y="538" type="line"/>
+			<point x="167" y="558" type="line"/>
+			<point x="181" y="558" type="line"/>
+			<point x="181" y="538" type="line"/>
+		</contour>
+		<contour>
+			<point x="71" y="570" type="line"/>
+			<point x="59" y="570" type="line"/>
+			<point x="59" y="538" type="line"/>
+			<point x="42" y="538" type="line"/>
+			<point x="42" y="570" type="line"/>
+			<point x="30" y="570" type="line"/>
+			<point x="30" y="526" type="line"/>
+			<point x="100" y="526" type="line"/>
+			<point x="100" y="570" type="line"/>
+			<point x="88" y="570" type="line"/>
+			<point x="88" y="538" type="line"/>
+			<point x="71" y="538" type="line"/>
+		</contour>
+	</outline>
+</glyph>

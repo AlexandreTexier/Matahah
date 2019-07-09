@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="three-ar" format="2">
+	<advance width="600"/>
+	<unicode hex="0663"/>
+	<outline>
+		<contour>
+			<point x="49" y="100" type="line"/>
+			<point x="149" y="100" type="line"/>
+			<point x="149" y="300" type="line"/>
+			<point x="549" y="300" type="line"/>
+			<point x="549" y="900" type="line"/>
+			<point x="449" y="900" type="line"/>
+			<point x="449" y="400" type="line"/>
+			<point x="349" y="400" type="line"/>
+			<point x="349" y="900" type="line"/>
+			<point x="249" y="900" type="line"/>
+			<point x="249" y="400" type="line"/>
+			<point x="149" y="400" type="line"/>
+			<point x="149" y="900" type="line"/>
+			<point x="49" y="900" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.75,0.75,0.75,1</string>
+		</dict>
+	</lib>
+</glyph>

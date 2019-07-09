@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hamzaaboveFatha-ar" format="2">
+	<advance width="224"/>
+	<anchor x="112" y="500" name="_top"/>
+	<outline>
+		<contour>
+			<point x="131" y="546" type="line"/>
+			<point x="134" y="534" type="line"/>
+			<point x="194" y="550" type="line"/>
+			<point x="191" y="562" type="line"/>
+		</contour>
+		<contour>
+			<point x="30" y="526" type="line"/>
+			<point x="100" y="526" type="line"/>
+			<point x="100" y="538" type="line"/>
+			<point x="57" y="538" type="line"/>
+			<point x="57" y="558" type="line"/>
+			<point x="100" y="558" type="line"/>
+			<point x="100" y="570" type="line"/>
+			<point x="45" y="570" type="line"/>
+			<point x="45" y="538" type="line"/>
+			<point x="30" y="538" type="line"/>
+		</contour>
+	</outline>
+</glyph>

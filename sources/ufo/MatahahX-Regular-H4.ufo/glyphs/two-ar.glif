@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="two-ar" format="2">
+	<advance width="400"/>
+	<unicode hex="0662"/>
+	<outline>
+		<contour>
+			<point x="50" y="100" type="line"/>
+			<point x="150" y="100" type="line"/>
+			<point x="150" y="300" type="line"/>
+			<point x="350" y="300" type="line"/>
+			<point x="350" y="1000" type="line"/>
+			<point x="250" y="1000" type="line"/>
+			<point x="250" y="400" type="line"/>
+			<point x="150" y="400" type="line"/>
+			<point x="150" y="1000" type="line"/>
+			<point x="50" y="1000" type="line"/>
+		</contour>
+	</outline>
+</glyph>

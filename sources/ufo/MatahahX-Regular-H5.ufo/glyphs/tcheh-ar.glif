@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tcheh-ar" format="2">
+	<advance width="500"/>
+	<unicode hex="0686"/>
+	<outline>
+		<contour>
+			<point x="50" y="-100" type="line"/>
+			<point x="550" y="-100" type="line"/>
+			<point x="550" y="0" type="line"/>
+			<point x="150" y="0" type="line"/>
+			<point x="150" y="100" type="line"/>
+			<point x="550" y="100" type="line"/>
+			<point x="550" y="900" type="line"/>
+			<point x="50" y="900" type="line"/>
+			<point x="50" y="800" type="line"/>
+			<point x="450" y="800" type="line"/>
+			<point x="450" y="200" type="line"/>
+			<point x="50" y="200" type="line"/>
+		</contour>
+		<component base="dotbelow-ar" xScale="0.6209" yScale="0.4665" xOffset="187" yOffset="74"/>
+		<component base="dotbelow-ar" xScale="0.6209" yScale="0.4665" xOffset="287" yOffset="74"/>
+		<component base="dotbelow-ar" xScale="0.6209" yScale="0.4665" xOffset="387" yOffset="74"/>
+	</outline>
+</glyph>

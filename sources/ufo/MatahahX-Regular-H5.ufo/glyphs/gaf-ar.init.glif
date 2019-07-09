@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="gaf-ar.init" format="2">
+	<advance width="400"/>
+	<unicode hex="FB94"/>
+	<outline>
+		<component base="kaf-ar.init"/>
+		<component base="gafsarkashabove-ar" xOffset="88" yOffset="500"/>
+	</outline>
+</glyph>

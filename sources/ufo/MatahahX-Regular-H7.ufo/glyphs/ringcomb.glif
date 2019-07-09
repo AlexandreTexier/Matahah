@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ringcomb" format="2">
+	<advance width="220"/>
+	<unicode hex="030A"/>
+	<anchor x="109" y="500" name="_top"/>
+	<outline>
+		<contour>
+			<point x="28" y="536" type="line"/>
+			<point x="192" y="536" type="line"/>
+			<point x="192" y="580" type="line"/>
+			<point x="28" y="580" type="line"/>
+		</contour>
+		<contour>
+			<point x="40" y="548" type="line"/>
+			<point x="40" y="568" type="line"/>
+			<point x="180" y="568" type="line"/>
+			<point x="180" y="548" type="line"/>
+		</contour>
+	</outline>
+</glyph>

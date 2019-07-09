@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="kaf-ar.fina" format="2">
+	<advance width="600"/>
+	<unicode hex="FEDA"/>
+	<outline>
+		<contour>
+			<point x="50" y="100" type="line"/>
+			<point x="650" y="100" type="line"/>
+			<point x="650" y="200" type="line"/>
+			<point x="550" y="200" type="line"/>
+			<point x="550" y="600" type="line"/>
+			<point x="450" y="600" type="line"/>
+			<point x="450" y="200" type="line"/>
+			<point x="150" y="200" type="line"/>
+			<point x="150" y="400" type="line"/>
+			<point x="50" y="400" type="line"/>
+		</contour>
+		<contour>
+			<point x="250" y="300" type="line"/>
+			<point x="350" y="300" type="line"/>
+			<point x="350" y="345" type="line"/>
+			<point x="323" y="365" type="line"/>
+			<point x="350" y="365" type="line"/>
+			<point x="350" y="400" type="line"/>
+			<point x="250" y="400" type="line"/>
+			<point x="250" y="355" type="line"/>
+			<point x="277" y="335" type="line"/>
+			<point x="250" y="335" type="line"/>
+		</contour>
+	</outline>
+</glyph>

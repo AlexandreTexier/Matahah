@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tteh-ar.init" format="2">
+	<advance width="200"/>
+	<unicode hex="FB68"/>
+	<anchor x="100" y="800" name="top"/>
+	<outline>
+		<contour>
+			<point x="-50" y="100" type="line"/>
+			<point x="150" y="100" type="line"/>
+			<point x="150" y="800" type="line"/>
+			<point x="50" y="800" type="line"/>
+			<point x="50" y="200" type="line"/>
+			<point x="-50" y="200" type="line"/>
+		</contour>
+		<component base="tahabove-ar" xOffset="-12" yOffset="306"/>
+	</outline>
+</glyph>

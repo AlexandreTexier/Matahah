@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dammatan-ar" format="2">
+	<advance width="224"/>
+	<unicode hex="064C"/>
+	<anchor x="112" y="500" name="_top"/>
+	<outline>
+		<contour>
+			<point x="106" y="570" type="line"/>
+			<point x="106" y="538" type="line"/>
+			<point x="42" y="538" type="line"/>
+			<point x="42" y="570" type="line"/>
+			<point x="30" y="570" type="line"/>
+			<point x="30" y="526" type="line"/>
+			<point x="194" y="526" type="line"/>
+			<point x="194" y="570" type="line"/>
+		</contour>
+		<contour>
+			<point x="118" y="538" type="line"/>
+			<point x="118" y="558" type="line"/>
+			<point x="182" y="558" type="line"/>
+			<point x="182" y="538" type="line"/>
+		</contour>
+	</outline>
+</glyph>
